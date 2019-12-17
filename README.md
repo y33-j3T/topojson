@@ -53,6 +53,7 @@ Converted to TopoJSON from original shapefiles, GeoJSON, etc. as noted in the so
 ## China
 - Provinces
   - [china-provinces](https://github.com/deldersveld/topojson/blob/master/countries/china/china-provinces.json) [(source)](http://www.diva-gis.org/Data)
+  - [china-provinces-simplified](https://github.com/deldersveld/topojson/blob/master/countries/china/china-provinces-simplified.json) [(source)](http://www.diva-gis.org/Data)
  
 ## Colombia
 - Departments
