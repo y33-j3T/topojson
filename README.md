@@ -50,7 +50,7 @@ Converted to TopoJSON from original shapefiles, GeoJSON, etc. as noted in the so
 - Benelux
   - [benelux-countries](https://github.com/deldersveld/topojson/blob/master/countries/belgium/benelux-countries.json) [(source)][2]
   
-  ## Chile
+## Chile
 - Regions
   - [chile-regions](https://github.com/deldersveld/topojson/blob/master/countries/chile/chile-regions.json) [(source)][4]
 - Comunas
