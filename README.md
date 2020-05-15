@@ -49,6 +49,12 @@ Converted to TopoJSON from original shapefiles, GeoJSON, etc. as noted in the so
   - [belgium-arrondissements](https://github.com/deldersveld/topojson/blob/master/countries/belgium/belgium-arrondissements.json) [(source)][2]
 - Benelux
   - [benelux-countries](https://github.com/deldersveld/topojson/blob/master/countries/belgium/benelux-countries.json) [(source)][2]
+  
+  ## Chile
+- Regions
+  - [chile-regions](https://github.com/deldersveld/topojson/blob/master/countries/chile/chile-regions.json) [(source)][4]
+- Comunas
+  - [chile-comunas](https://github.com/deldersveld/topojson/blob/master/countries/chile/chile-comunas.json) [(source)][4]
 
 ## China
 - Provinces
@@ -394,3 +400,4 @@ Converted to TopoJSON from original shapefiles, GeoJSON, etc. as noted in the so
 [1]: http://www.naturalearthdata.com/downloads/110m-cultural-vectors
 [2]: http://www.diva-gis.org/Data
 [3]: https://catalog.data.gov/dataset/2015-cartographic-boundary-file-state-county-for-united-states-1-20000000
+[4]: https://www.bcn.cl/siit/mapas_vectoriales
